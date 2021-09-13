@@ -1,0 +1,252 @@
+@media only screen and (min-width: 576px) and (max-width: 770px) {
+  .global-community-full-width {
+    top: -152px;
+  }
+
+  .go-live-full-width-wrap .go-btn-main-wrap {
+    width: 100%;
+  }
+
+  .global-community-full-width .global-community-bottom-shap {
+    bottom: -150px;
+  }
+
+  .order-support-area-wrap img.order-support-bottom-shape {
+    bottom: -183px;
+  }
+
+  .hero-area-wrap .hero-content {
+    position: relative;
+    z-index: 99;
+  }
+}
+
+@media only screen and (min-width: 401px) and (max-width: 575px) {
+  .global-community-full-width {
+    top: -152px;
+  }
+
+  .go-live-full-width-wrap .go-btn-main-wrap {
+    width: 100%;
+  }
+
+  .global-community-full-width .global-community-bottom-shap {
+    bottom: -150px;
+  }
+
+  .order-support-area-wrap img.order-support-bottom-shape {
+    bottom: -183px;
+  }
+
+  .hero-area-wrap .page-logo {
+    padding-top: 40px;
+    padding-bottom: 25px;
+  }
+
+  .hero-area-wrap .hero-content {
+    position: relative;
+    z-index: 99;
+  }
+
+  .hero-area-wrap .hero-btn-main-wrap .hero-btn-right button {
+    padding: 7px 10px;
+    background: #f3ba2f;
+    margin-left: 4px;
+    outline: none;
+  }
+
+  .hero-area-wrap .hero-btn-main-wrap .hero-btn-right p {
+    display: inline-block;
+    color: #8f9ca3;
+    font-size: 20px;
+    margin-bottom: 0;
+  }
+
+  .hero-area-wrap::before {
+    display: none;
+  }
+
+  .hero-area-wrap::after {
+    display: none;
+  }
+
+  .hero-area-wrap .hero-btn-main-wrap {
+    padding: 15px 15px;
+    border-radius: 15px;
+  }
+
+  .support-platform-full-width .support-platform-wrap::after {
+    width: 100%;
+  }
+
+  .support-platform-full-width img.support-top-shape {
+    top: -39px;
+    z-index: 99;
+  }
+
+  .live-trading-full-width {
+    min-height: 1520px;
+  }
+
+  .live-trading-full-width::after {
+    top: 144px;
+    width: 100%;
+    height: 35%;
+    transform: rotate(-7deg);
+  }
+
+  .live-trading-full-width::before {
+    width: 100%;
+    bottom: 137px;
+    height: 33%;
+  }
+
+  .order-support-area-wrap img.order-support-top-shape {
+    top: -150px;
+  }
+
+  .order-support-area-wrap img.order-support-bottom-shape {
+    bottom: -170px;
+  }
+
+  .order-support-area-wrap .order-support-image img {
+    width: 100%;
+  }
+
+  .order-support-area-wrap .order-support-btn-wrap {
+    width: 100%;
+    border: 1px solid #d9e1eb;
+    margin: auto;
+    text-align: center;
+    height: auto;
+    border-radius: 5px;
+    line-height: unset;
+  }
+
+  .order-support-area-wrap .order-support-bottom-btn-area {
+    width: 100%;
+  }
+
+  .order-support-area-wrap .order-support-bottom-btn-area h4 {
+    font-size: 16px;
+  }
+
+  .modeling-content-image img {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 400px) {
+  .global-community-full-width {
+    top: -152px;
+  }
+
+  .modeling-content-image img {
+    width: 100%;
+  }
+
+  .order-support-area-wrap .order-support-bottom-btn-area h4 {
+    font-size: 16px;
+  }
+
+  .order-support-area-wrap .order-support-bottom-btn-area {
+    width: 100%;
+  }
+
+  .order-support-area-wrap .order-support-btn-wrap {
+    width: 100%;
+    border: 1px solid #d9e1eb;
+    margin: auto;
+    text-align: center;
+    height: auto;
+    border-radius: 5px;
+    line-height: unset;
+  }
+
+  .order-support-area-wrap .order-support-image img {
+    width: 100%;
+  }
+
+  .go-live-full-width-wrap .go-btn-main-wrap {
+    width: 100%;
+  }
+
+  .global-community-full-width .global-community-bottom-shap {
+    bottom: -150px;
+  }
+
+  .order-support-area-wrap img.order-support-bottom-shape {
+    bottom: -183px;
+  }
+
+  .hero-area-wrap .page-logo {
+    padding-top: 40px;
+    padding-bottom: 25px;
+  }
+
+  .hero-area-wrap .hero-content {
+    position: relative;
+    z-index: 99;
+  }
+
+  .hero-area-wrap .hero-btn-main-wrap .hero-btn-right button {
+    padding: 7px 10px;
+    background: #f3ba2f;
+    margin-left: 4px;
+    outline: none;
+  }
+
+  .hero-area-wrap .hero-btn-main-wrap .hero-btn-right p {
+    display: inline-block;
+    color: #8f9ca3;
+    font-size: 20px;
+    margin-bottom: 0;
+  }
+
+  .hero-area-wrap::before {
+    display: none;
+  }
+
+  .hero-area-wrap::after {
+    display: none;
+  }
+
+  .hero-area-wrap .hero-btn-main-wrap {
+    padding: 15px 15px;
+    border-radius: 15px;
+  }
+
+  .support-platform-full-width .support-platform-wrap::after {
+    width: 100%;
+  }
+
+  .support-platform-full-width img.support-top-shape {
+    top: -39px;
+    z-index: 99;
+  }
+
+  .live-trading-full-width {
+    min-height: 1520px;
+  }
+
+  .live-trading-full-width::after {
+    top: 144px;
+    width: 100%;
+    height: 35%;
+    transform: rotate(-7deg);
+  }
+
+  .live-trading-full-width::before {
+    width: 100%;
+    bottom: 137px;
+    height: 33%;
+  }
+
+  .order-support-area-wrap img.order-support-top-shape {
+    top: -150px;
+  }
+
+  .order-support-area-wrap img.order-support-bottom-shape {
+    bottom: -170px;
+  }
+}

@@ -1,7 +1,7 @@
 $button-warning: #f3ba2f;
 $semi-bold: "Norpeth-DemiBold";
 .height-fixer {
-  overflow: hidden;
+  overflow: hidden !important;
 }
 .hero-full-width-wrap {
   background-image: url(design/HeroImage/hero-main-bg.png);
@@ -1082,7 +1082,7 @@ $semi-bold: "Norpeth-DemiBold";
     margin-bottom: 2% !important;
   }
   .modeling-full-width-wrap {
-    padding: 12% 0% 18% 0%;
+    padding: 20% 0% 30% 0%;
   }
   .global-community-full-width {
     top: -125px;
@@ -1129,9 +1129,4 @@ $semi-bold: "Norpeth-DemiBold";
   }
 }
 
-@media only screen and (max-width: 768px) {
-  .modeling-full-width-wrap {
-    padding: 20% 0% 30% 0%;
-  }
-}
 /***** End responsive *****/
